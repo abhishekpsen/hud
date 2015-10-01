@@ -4,7 +4,7 @@ email: thomas.gable@gatech.edu
 description: > # this means to ignore newlines until "baseurl:"
    This site is about how the folks at Sonification Lab is changing the
    current state of the art of Head Up Displays
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/hud/" # the subpath of your site, e.g. /blog/
 url: "http://abhishekpsen.github.io" # the base hostname & protocol for your site
 twitter_username: tbd
 github_username:  tbd
